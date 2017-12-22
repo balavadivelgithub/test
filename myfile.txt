@@ -1,1 +1,4 @@
 myfile
+myfile1
+myfile2
+myfile3
